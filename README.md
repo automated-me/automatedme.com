@@ -1,4 +1,4 @@
-blakes.ws
+http://www.blakes.ws
 =========
 
 Website project and distribution for blakes.ws
